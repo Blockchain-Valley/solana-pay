@@ -1,3 +1,18 @@
+Testing
+
+
+Hardware/OS Requirements: Iphone only. No Android yet. 
+
+
+Create two Solana wallets, one for 'Merchant' while the other is for 'User/Customer' Do this with Phantom Wallet only.
+
+
+
+
+
+
+
+
 # Solana Pay
 
 Solana Pay is a standard protocol and set of reference implementations that enable developers to incorporate decentralized payments into their apps and services.
